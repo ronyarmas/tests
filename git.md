@@ -40,3 +40,6 @@ git log
 Go back to a previous snapshot of your changes
 
 git reset
+
+Use git <command> --help for more information on how to use some of the commands we discussed
+
